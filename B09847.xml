@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offer'd against the bill entituled An act for the sale of the forfeited estates</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09847</idno><idno type="EEBO-CITATION">62369621</idno>
+  <idno type="VID">188104</idno>
+  <idno type="EEBO-PROQUEST">2240869470</idno>
+  
+            <idno type="STC">Wing R525D</idno>
+            <idno type="STC">ESTC N24623</idno>
+            <idno type="OCLC">62369621</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09847)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188104)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offer'd against the bill entituled An act for the sale of the forfeited estates</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>16--?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188104:1"/>
+            <head>
+               <hi>REASONS HUMBLY OFFER'D Against the BILL, Entituled,</hi> An ACT for the Sale of the Forfeited Estates.</head>
+            <p>BY this Bill the Commissioners are empower'd to summon <hi>all Persons whatsoever;</hi> which Words are so general, that Peers are not exempted.</p>
+            <p>The Penalty for not appearing is 40 <hi>l.</hi> and the Party is to be Imprison'd till Payment thereof.</p>
+            <p>Whoever appears, and refuses to be examin'd <hi>upon Oath,</hi> is to be Imprison'd till he submits to such Examination.</p>
+            <p>That the Peers should be subjected to such Summons, Penalty, Examination, and <hi>Imprisonment upon Neglect or Refusal,</hi> is contrary to a Fundamental Rule of the Common Law, which allows no <hi>Capias</hi> against a Peer, and guards him from being imprisoned for any Debt, or Sum of Money.</p>
+            <p>And besides, the very Jurisdiction of the House of Lords is infringed by this Bill.</p>
+            <p>Our antient and known Constitution makes them the <hi>Dernier Resort;</hi> but this Bill makes the Judgment of the Delegates final, without any Appeal to the House of Peers.</p>
+            <p>As the Jurisdiction of the Commissioners will be extraordinary, so will the Na<g ref="char:EOLhyphen"/>ture of the Evidence, upon which they determine Claims, be very unequal.</p>
+            <p>The Witnesses, who swear to support a Claim, are to be lyable to the Punish<g ref="char:EOLhyphen"/>ments of Perjury; but they are not so, who swear against it. What Perjury, what Oppression this my produce, may rather be imagin'd than express'd.</p>
+            <p>Another Hardship upon the Claimants is, that the Commissioners may refuse all Affidavits relating to the Title, tho' made even before the Judges in <hi>London.</hi>
+            </p>
+            <p>But had they been bound to take Affidavits made before the Judges as Evidence, yet that wou'd not have been sufficient to have prevented great Injustice being done; for the Forfeited Estates lying at such a Distance as <hi>Lancashire, Durham,</hi> and <hi>Northumberland,</hi> many of the Witnesses for the Claimants may be uncapable, thro' Age and Infirmity, to come up to <hi>London</hi> to make such Affidavits, or to be examin'd <hi>viva Voce.</hi>
+            </p>
+            <p>This Bill is likewise prejudicial to innocent Reversioners, where the forfeiting Persons are barely Tenants for Life, <hi>without any Power to commit Waste;</hi> for tho' the Reversioner hath duly enter'd and justly recover'd his Claim, yet, doubtless, the Purchasers of the Estates for Life having but an uncertain Term, will be tempted to commit Waste to harrass both the Land and Tenants, to the great Loss of the Reversioner.</p>
+            <p>And farther; Joynturesses, Protestant-Mortgagees, Annuitants, and several ho<g ref="char:EOLhyphen"/>nest innocent Creditors, have already suffer'd too much; for tho' two Years Rents have been already receiv'd from the Estates out of which they claim, and they have been so long kept from their Debts and Subsistance, yet this Bill makes them no Compensation, nor does it provide for their being reimburs'd the Charges of Prose<g ref="char:EOLhyphen"/>cuting their just Claims.</p>
+            <p>Nay, the Protestant-Mortgagees, whose Securities have been thus impaired, are, when they are put into Possession, to remain Perpetual Bailiffs to the Estates, since they have not by this Bill, Liberty to foreclose.</p>
+            <p>Over and above all these Hardships, there is One which affects every Body, who hath any Claim before the Commissioners.</p>
+            <p>The Publick has provided a handsome Allowance for the Commissioners, and those employed under them, and for all incident Charges; and yet their Officers have exacted exorbitant Fees, and no Care is taken in this Bill to prevent that Grievance.</p>
+            <pb facs="tcp:188104:2"/>
+            <p>When an Act passed in the Reign of King <hi>Charles</hi> the Second, for Determining Differences about Re-building <hi>London,</hi> (after the Fire) none but the Judges were thought proper to compose the Judicature; and those Great Men, the then Lord Keeper <hi>Bridgman,</hi> and Chief Justice <hi>Hales,</hi> who drew the Act, inserted a Clause to fix the Fees.</p>
+            <p>If such Care was then thought necessary, sure it is so now, when many of the Claimants are indigent Persons, nay Infants, who are so far from being able to bear a great Expence in Prosecuting their Right, that they are now destitute even of Subsistance.</p>
+            <p>To conclude; It may without any Reflection upon the present Commissioners, be humbly presumed, that the Judges, who are Persons of known Integrity and Learing, Men skilled in the Prerogative Law, and conversant with all Matters relating to Forfeitures, and as skilful in Discovering Frauds, are as fit as the Com<g ref="char:EOLhyphen"/>missioners to be erected into a Judicature to determine in a summary Way these Claims, reserving an Appeal from their Judgments to the House of Lords.</p>
+            <closer>All which is humbly submitted.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:188104:2"/>
+            <p>
+               <hi>REASONS HUMBLY OFFER'D Against the BILL, Entiled,</hi> An act for the SALE of the Forfeited Estates.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
